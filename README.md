@@ -99,10 +99,22 @@ If we return to the selected manga, we can delete it from there.
         <img src="delete.png" alt="delete window" width="600" height="600"/>
   </a>
 
-Tools
+Hardware
 
 For the development of this project, the following hardware was used:
 
 PC with Windows 10 operating system. Intel(R) Core(TM) i5-4590 CPU @ 3.30 GHz, 16.0 GB RAM (15.9 GB usable), 64-bit operating system, x64-based processor.
 
 iMac with macOS High Sierra Version 10.13.6 (27-inch, Mid 2011). 2.7 GHz Intel Core i5 processor, 16 GB 1333 MHz DDR3 memory.
+
+Technologies
+
+The following technologies were used for the development of this project:
+
+Android Studio Bumblebee 2021.1.1 as the IDE for programming in this environment using the Java programming language.
+
+Visual Studio 2022 as the IDE for programming in this environment using the C# programming language.
+
+Windows Forms to create the graphical user interface.
+
+Microsoft SQL Server v18.11.1, the DBMS used to host the database. Queries are performed using C#.
