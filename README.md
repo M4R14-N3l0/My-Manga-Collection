@@ -92,3 +92,9 @@ To modify a manga, the edit window opens with the current manga data preloaded i
 <a>
         <img src="edit.png" alt="edit window" width="600" height="600"/>
   </a>
+
+If we return to the selected manga, we can delete it from there.
+
+<a>
+        <img src="delete.png" alt="delete window" width="600" height="600"/>
+  </a>
