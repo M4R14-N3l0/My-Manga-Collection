@@ -68,3 +68,9 @@ In the next window (after logging in), we can see the main application screen di
 <a>
         <img src="menu.png" alt="menu" width="600" height="600"/>
   </a>
+
+From the menu, we can register as many manga entries as we want. If all fields are filled in, a MessageDialog appears to inform the user that their manga has been successfully registered.
+
+<a>
+        <img src="mensaje.png" alt="MessageDialog" width="600" height="600"/>
+  </a>
