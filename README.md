@@ -80,3 +80,9 @@ This is the "Search" screen, where we can see several textboxes to search by tit
 <a>
         <img src="busqueda.png" alt="Search" width="600" height="600"/>
   </a>
+
+This is the manga detail window. Here we can see an image of the manga, a summary, the title, chapter, author, release frequency, genre, and a link to view more information or even read the manga. From this screen, we can modify, delete, or return to the previous window.
+
+<a>
+        <img src="ficha.png" alt="detail window" width="600" height="600"/>
+  </a>
