@@ -9,7 +9,7 @@ General Objective:
 
 <li> Use Visual Studio to develop a desktop application that enables users to manage their manga collection: search, register, edit, and delete manga entries. </li>
 
-\
+
 
 Specific Objectives:
 
