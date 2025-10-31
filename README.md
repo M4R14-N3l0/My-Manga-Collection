@@ -5,13 +5,13 @@ A manga collection app for fans to organize and track their physical or digital 
         <img src="portada.png" alt="portada" width="600" height="600"/>
   </a>
 
-General Objective:
+##General Objective:
 
 <li> Use Visual Studio to develop a desktop application that enables users to manage their manga collection: search, register, edit, and delete manga entries. </li>
 
 <br>
 
-Specific Objectives:
+##Specific Objectives:
 
 <li> Create a user registration system for those who wish to access the application. </li>
 
@@ -21,11 +21,15 @@ Specific Objectives:
 
 <li> Design a user interface that is functional, user-friendly, and visually appealing. </li>
 
+### Class diagram
+
 The class diagram describes the structure of a program through its component classes, their attributes, operations, and the relationships between classes.
 
  <a>
         <img src="diagrama.png" alt="class diagram" width="600" height="600"/>
   </a>
+
+### Use case diagram
 
 The use case diagram is a graphical description of the system's behavior.
 
@@ -33,13 +37,15 @@ The use case diagram is a graphical description of the system's behavior.
         <img src="casos.png" alt="use case diagram" width="600" height="600"/>
   </a>
 
+### Entity-relationship diagram
+
 Here we will look at the entity-relationship diagram of the database that was created. The components can be represented through an entity-relationship diagram.
 
  <a>
         <img src="entidad-relacion.png" alt="entity-relationship diagram" width="600" height="600"/>
   </a>
 
-Navigation Map
+### Navigation Map
 
  <a>
         <img src="mapa.png" alt="Navigation Map" width="600" height="600"/>
@@ -99,7 +105,7 @@ If we return to the selected manga, we can delete it from there.
         <img src="delete.png" alt="delete window" width="600" height="600"/>
   </a>
 
-Hardware
+## Hardware
 
 For the development of this project, the following hardware was used:
 
@@ -107,7 +113,7 @@ PC with Windows 10 operating system. Intel(R) Core(TM) i5-4590 CPU @ 3.30 GHz, 1
 
 iMac with macOS High Sierra Version 10.13.6 (27-inch, Mid 2011). 2.7 GHz Intel Core i5 processor, 16 GB 1333 MHz DDR3 memory.
 
-Technologies
+## Technologies
 
 The following technologies were used for the development of this project:
 
