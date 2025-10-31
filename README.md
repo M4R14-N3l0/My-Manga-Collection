@@ -74,3 +74,9 @@ From the menu, we can register as many manga entries as we want. If all fields a
 <a>
         <img src="mensaje.png" alt="MessageDialog" width="600" height="600"/>
   </a>
+
+This is the "Search" screen, where we can see several textboxes to search by title, author, chapter, frequency, or genre. To perform the search, click the "Search" button. The results will appear in the ListView below. By clicking on the desired manga and pressing the "Open" button, we can view the complete manga details. There is also a button to go back.
+
+<a>
+        <img src="busqueda.png" alt="Search" width="600" height="600"/>
+  </a>
