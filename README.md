@@ -57,3 +57,9 @@ When the "Log in" button is pressed, the application checks the username and pas
         <img src="login2.png" alt="login error" width="600" height="600"/>
   </a>
 
+In this window, there are two textboxes: one for entering the username and another for entering the password. Below them, there is a checkbox to show or hide the password, and finally, a button to complete the registration.
+
+<a>
+        <img src="checkbox.png" alt="cheackbox" width="600" height="600"/>
+  </a>
+
