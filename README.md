@@ -11,11 +11,11 @@ General Objective:
 
 Specific Objectives:
 
-Create a user registration system for those who wish to access the application.
+<li> Create a user registration system for those who wish to access the application.
 
 Implement a login window for authenticated user access.
 
 Develop a management system that ensures security and prevents execution errors that could crash the application.
 
-Design a user interface that is functional, user-friendly, and visually appealing.
+Design a user interface that is functional, user-friendly, and visually appealing. </li>
 
