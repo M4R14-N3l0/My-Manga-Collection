@@ -44,3 +44,9 @@ Navigation Map
  <a>
         <img src="mapa.png" alt="Navigation Map" width="600" height="600"/>
   </a>
+
+When the program is launched, the login window opens. The application's logo appears in the upper left corner. The window includes two textboxes for entering the username and password, and below them, a checkbox to show or hide the password. This first part of the application also allows users to click the "Register" button, which opens another similar window where users can create an account to manage their manga collections.
+
+ <a>
+        <img src="login.png" alt="Log in" width="600" height="600"/>
+  </a>
