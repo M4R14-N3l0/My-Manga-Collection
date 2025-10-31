@@ -7,7 +7,7 @@ A manga collection app for fans to organize and track their physical or digital 
 
 General Objective:
 
-<li> Use Visual Studio to develop a desktop application that enables users to manage their manga collection: search, register, edit, and delete manga entries. <li>
+<li> Use Visual Studio to develop a desktop application that enables users to manage their manga collection: search, register, edit, and delete manga entries. </li>
 
 Specific Objectives:
 
