@@ -21,3 +21,8 @@ Specific Objectives:
 
 <li> Design a user interface that is functional, user-friendly, and visually appealing. </li>
 
+The class diagram describes the structure of a program through its component classes, their attributes, operations, and the relationships between classes.
+
+ <a>
+        <img src="diagrama.png" alt="diagrama" width="400" height="400"/>
+  </a>
