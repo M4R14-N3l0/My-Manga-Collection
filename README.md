@@ -38,3 +38,9 @@ Here we will look at the entity-relationship diagram of the database that was cr
  <a>
         <img src="entidad-relacion.png" alt="entity-relationship diagram" width="600" height="600"/>
   </a>
+
+Navigation Map
+
+ <a>
+        <img src="mapa.png" alt="Navigation Map" width="600" height="600"/>
+  </a>
