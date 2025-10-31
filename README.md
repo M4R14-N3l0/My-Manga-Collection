@@ -24,5 +24,11 @@ Specific Objectives:
 The class diagram describes the structure of a program through its component classes, their attributes, operations, and the relationships between classes.
 
  <a>
-        <img src="diagrama.png" alt="diagrama" width="400" height="400"/>
+        <img src="diagrama.png" alt="class diagram" width="400" height="400"/>
+  </a>
+
+The use case diagram is a graphical description of the system's behavior.
+
+ <a>
+        <img src="casos.png" alt="use case diagram" width="400" height="400"/>
   </a>
