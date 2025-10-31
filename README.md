@@ -86,3 +86,9 @@ This is the manga detail window. Here we can see an image of the manga, a summar
 <a>
         <img src="ficha.png" alt="detail window" width="600" height="600"/>
   </a>
+
+To modify a manga, the edit window opens with the current manga data preloaded into the textboxes and checkboxes, as shown below. We then proceed to update the manga details and verify the changes in SQL Server.
+
+<a>
+        <img src="edit.png" alt="edit window" width="600" height="600"/>
+  </a>
