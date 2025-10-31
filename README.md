@@ -2,7 +2,7 @@
 A manga collection app for fans to organize and track their physical or digital volumes. With long-running series like One Piece, collectors need an easy way to manage their collections, stay updated, and follow their favorite titles when anime releases lag behind manga.
 
  <a>
-        <img src="portada.png" alt="portada" width="40" height="40"/>
+        <img src="portada.png" alt="portada" width="400" height="400"/>
   </a>
 
 General Objective:
