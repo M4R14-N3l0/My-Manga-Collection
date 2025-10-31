@@ -63,3 +63,8 @@ In this window, there are two textboxes: one for entering the username and anoth
         <img src="checkbox.png" alt="cheackbox" width="600" height="600"/>
   </a>
 
+In the next window (after logging in), we can see the main application screen displaying a menu with three buttons: one to search for manga, another to register manga, and a third to close the program from there.
+
+<a>
+        <img src="menu.png" alt="menu" width="600" height="600"/>
+  </a>
