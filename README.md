@@ -50,3 +50,10 @@ When the program is launched, the login window opens. The application's logo app
  <a>
         <img src="login.png" alt="Log in" width="600" height="600"/>
   </a>
+
+When the "Log in" button is pressed, the application checks the username and password in the database. If they match, access to the next window is granted; otherwise, a MessageDialog appears informing the user that their credentials are incorrect.
+
+<a>
+        <img src="login2.png" alt="login error" width="600" height="600"/>
+  </a>
+
