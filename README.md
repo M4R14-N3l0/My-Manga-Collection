@@ -32,3 +32,9 @@ The use case diagram is a graphical description of the system's behavior.
  <a>
         <img src="casos.png" alt="use case diagram" width="400" height="400"/>
   </a>
+
+Here we will look at the entity-relationship diagram of the database that was created. The components can be represented through an entity-relationship diagram.
+
+ <a>
+        <img src="entidad-relacion.png" alt="entity-relationship diagram" width="400" height="400"/>
+  </a>
