@@ -40,3 +40,9 @@ From Manga.Services, we right-click and add a new folder called Context, where w
 <a>
         <img src="services.png" alt="Context" width="600" height="600"/>
   </a>
+
+Next, we go to the Startup class and add the DbContext service to configure the connection to our database (in this case, a local one).
+
+<a>
+        <img src="connection.png" alt="Connetion" width="600" height="600"/>
+  </a>
