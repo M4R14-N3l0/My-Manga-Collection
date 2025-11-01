@@ -106,3 +106,9 @@ Next, we return to the Startup class and add another line of code. We perform de
 <a>
         <img src="inyeccion.png" alt="Injection" width="600" height="600"/>
   </a>
+
+We go to the Controllers folder and add a blank API controller called “AnimeController”. Here, we define the endpoints and specify what each one does when a request is made (see code in the appendix).
+
+<a>
+        <img src="controladores.png" alt="Controller" width="600" height="600"/>
+  </a>
