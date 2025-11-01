@@ -15,3 +15,9 @@ The following window appears. We click “Yes,” and another warning window sho
 <a>
         <img src="certificado.png" alt="certificate" width="600" height="600"/>
   </a>
+
+We go to the project and right-click on “Manage NuGet Packages.”
+
+<a>
+        <img src="paquetes.png" alt="Packages" width="600" height="600"/>
+  </a>
