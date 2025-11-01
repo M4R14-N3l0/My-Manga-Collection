@@ -76,3 +76,9 @@ We create the folder that will contain the DTOs (Data Transfer Objects), where w
 <a>
         <img src="dtos.png" alt="DTOs" width="600" height="600"/>
   </a>
+
+In Manga.Services, we create a new class called “MappingConfig” (see code in the appendix) to map the DTOs to the models.
+
+<a>
+        <img src="mapeo.png" alt="Mapping" width="600" height="600"/>
+  </a>
