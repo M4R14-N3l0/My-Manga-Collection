@@ -100,3 +100,9 @@ Creamos la clase “AnimeRepository” que implementa la interfaz creada en el a
 <a>
         <img src="clase.png" alt="Clase" width="600" height="600"/>
   </a>
+
+Next, we return to the Startup class and add another line of code. We perform dependency injection using services.AddScoped, injecting AnimeRepository into IAnimeRepository.
+
+<a>
+        <img src="inyeccion.png" alt="Injection" width="600" height="600"/>
+  </a>
