@@ -46,3 +46,9 @@ Next, we go to the Startup class and add the DbContext service to configure the 
 <a>
         <img src="connection.png" alt="Connetion" width="600" height="600"/>
   </a>
+
+We go to appsettings.json and enter all the necessary information to establish the database connection.
+
+<a>
+        <img src="connection2.png" alt="Connetion 2" width="600" height="600"/>
+  </a>
