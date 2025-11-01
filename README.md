@@ -124,3 +124,35 @@ Visual Studio 2022 as the IDE for programming in this environment using the C# p
 Windows Forms to create the graphical user interface.
 
 Microsoft SQL Server v18.11.1, the DBMS used to host the database. Queries are performed using C#.
+
+---
+
+We have developed a desktop application for managing manga collections, successfully implementing the following features:
+
+<li> User registration </li>
+
+<li> User login </li>
+
+<li> Database design </li>
+
+<li> Manga registration </li>
+
+<li> Manga modification </li>
+
+<li> Manga deletion </li>
+
+Due to time constraints, we were unable to develop the Android version of the application.
+
+Below is a list of potential features that could be added in future updates:
+
+<li> Enforce stronger password requirements for users </li>
+
+<li> Allow users to upload manga in PDF format </li>
+
+<li> Add a map view showing nearby manga stores </li>
+
+<li> Include embedded anime video playback </li>
+
+<li> Add a forum for discussions, such as manga trading </li>
+
+<li> Implement a wishlist and owned manga tracking system </li>
