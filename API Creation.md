@@ -94,3 +94,9 @@ We create a new folder called “Repository” to store the “IAnimeRepository�
 <a>
         <img src="repositorio.png" alt="Repository" width="600" height="600"/>
   </a>
+
+Creamos la clase “AnimeRepository” que implementa la interfaz creada en el apartado anterior. Aquí implementamos los métodos definidos en la interfaz (ver código en el anexo).
+
+<a>
+        <img src="clase.png" alt="Clase" width="600" height="600"/>
+  </a>
