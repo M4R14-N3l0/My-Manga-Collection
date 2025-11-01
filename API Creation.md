@@ -70,3 +70,9 @@ In the console, we type: add-migration Tablas Iniciales
 <a>
         <img src="consola.png" alt="Console" width="600" height="600"/>
   </a>
+
+We create the folder that will contain the DTOs (Data Transfer Objects), where we add the “AnimeDto” and “UserDto” classes to transfer data between the models and controllers.
+
+<a>
+        <img src="dtos.png" alt="DTOs" width="600" height="600"/>
+  </a>
