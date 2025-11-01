@@ -89,3 +89,8 @@ We go to the Startup class and add three lines of code in the ConfigureServices 
         <img src="configuracion.png" alt="Configuration" width="600" height="600"/>
   </a>
 
+We create a new folder called “Repository” to store the “IAnimeRepository” interface and manage the functions we define (which will be injected into the constructors) (see full code in the appendix).
+
+<a>
+        <img src="repositorio.png" alt="Repository" width="600" height="600"/>
+  </a>
