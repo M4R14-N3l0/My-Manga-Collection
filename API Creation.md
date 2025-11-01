@@ -62,5 +62,5 @@ We create the folder that will contain the models (the “Anime” and “User�
 We go to Tools → NuGet Package Manager → Package Manager Console, and from there we create the tables in our database.
 
 <a>
-        <img src="tablas.png" alt="Tables" width="600" height="600"/>
+        <img src="Tablas.png" alt="Tables" width="600" height="600"/>
   </a>
