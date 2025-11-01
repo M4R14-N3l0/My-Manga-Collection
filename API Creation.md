@@ -112,3 +112,10 @@ We go to the Controllers folder and add a blank API controller called “AnimeCo
 <a>
         <img src="controladores.png" alt="Controller" width="600" height="600"/>
   </a>
+
+Next, we go to the DTO folder and create the ResponseDto class to standardize all responses.
+
+<a>
+        <img src="respuesta.png" alt="Responses" width="600" height="600"/>
+  </a>
+
