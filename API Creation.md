@@ -119,3 +119,8 @@ Next, we go to the DTO folder and create the ResponseDto class to standardize al
         <img src="respuesta.png" alt="Responses" width="600" height="600"/>
   </a>
 
+Finally, we repeat the same process for Users, and with that, we complete our API.
+
+<a>
+        <img src="api.png" alt="API" width="600" height="600"/>
+  </a>
