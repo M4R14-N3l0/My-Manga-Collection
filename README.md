@@ -125,7 +125,7 @@ Windows Forms to create the graphical user interface.
 
 Microsoft SQL Server v18.11.1, the DBMS used to host the database. Queries are performed using C#.
 
-# USE
+## USE
 
 We have developed a desktop application for managing manga collections, successfully implementing the following features:
 
