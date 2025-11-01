@@ -27,3 +27,10 @@ We install AutoMapper version 10.0.0. We also install AutoMapper.Extensions.Micr
 <a>
         <img src="automapper.png" alt="AutoMapper" width="600" height="600"/>
   </a>
+
+We install EntityFrameworkCore.SqlServer version 5.0.15 and Microsoft.EntityFrameworkCore.Tools. Entity Framework allows us to modify and access the database according to the migrations we create. The migrations take into account the models we create or modify in the project, which are stored in the "Models" folder.
+
+
+<a>
+        <img src="entities.png" alt="Entities" width="600" height="600"/>
+  </a>
