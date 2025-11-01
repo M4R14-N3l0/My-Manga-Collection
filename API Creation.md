@@ -64,3 +64,9 @@ We go to Tools → NuGet Package Manager → Package Manager Console, and from t
 <a>
         <img src="Tablas.png" alt="Tables" width="600" height="600"/>
   </a>
+
+In the console, we type: add-migration Tablas Iniciales
+
+<a>
+        <img src="consola.png" alt="Console" width="600" height="600"/>
+  </a>
