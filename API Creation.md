@@ -82,3 +82,10 @@ In Manga.Services, we create a new class called “MappingConfig” (see code in
 <a>
         <img src="mapeo.png" alt="Mapping" width="600" height="600"/>
   </a>
+
+We go to the Startup class and add three lines of code in the ConfigureServices method to complete the mapper configuration.
+
+<a>
+        <img src="configuracion.png" alt="Configuration" width="600" height="600"/>
+  </a>
+
