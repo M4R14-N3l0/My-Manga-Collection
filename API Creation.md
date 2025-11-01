@@ -25,5 +25,5 @@ We go to the project and right-click on “Manage NuGet Packages.”
 We install AutoMapper version 10.0.0. We also install AutoMapper.Extensions.Microsoft.DependencyInjection version 11.0.0 and update AutoMapper to version 11.0.0. We use AutoMapper to map the DTOs to the Models, and DependencyInjection to inject the Services into the Interfaces.
 
 <a>
-        <img src="AutoMapper.png" alt="AutoMapper" width="600" height="600"/>
+        <img src="AutoMapper.png" alt="AutoMapper" width="600" height="800"/>
   </a>
