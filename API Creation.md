@@ -52,3 +52,9 @@ We go to appsettings.json and enter all the necessary information to establish t
 <a>
         <img src="connection2.png" alt="Connetion 2" width="600" height="600"/>
   </a>
+
+We create the folder that will contain the models (the “Anime” and “User” classes).
+
+<a>
+        <img src="modelos.png" alt="Models" width="600" height="600"/>
+  </a>
