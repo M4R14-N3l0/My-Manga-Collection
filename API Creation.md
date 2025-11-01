@@ -34,3 +34,9 @@ We install EntityFrameworkCore.SqlServer version 5.0.15 and Microsoft.EntityFram
 <a>
         <img src="entities.png" alt="Entities" width="600" height="600"/>
   </a>
+
+From Manga.Services, we right-click and add a new folder called Context, where we create a new class named "MangaDbContext" that inherits from DbContext (see full code in the appendix). This class is used to configure the database connection and define the tables we have.
+
+<a>
+        <img src="services.png" alt="Context" width="600" height="600"/>
+  </a>
