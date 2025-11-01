@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\bin\Debug\MyMangaCollections.exe.config
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\bin\Debug\MyMangaCollections.exe
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\bin\Debug\MyMangaCollections.pdb
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Form2.resources
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Form3.resources
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Properties.Resources.resources
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.exe
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.pdb
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Form4.resources
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Form5.resources
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Form6.resources
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Form7.resources
+C:\Users\USER\source\repos\MyMangaCollections\MyMangaCollections\obj\Debug\MyMangaCollections.Form1.resources
